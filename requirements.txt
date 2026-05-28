@@ -1,0 +1,3 @@
+feedparser==6.0.11
+yt-dlp==2024.3.10
+schedule==1.2.1
